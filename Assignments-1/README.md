@@ -33,7 +33,7 @@
   ``` bash
   conda activate DataMining
   ```
-+ 安装相应所需要的包，如下：
++ 安装相应所需要的包，如下：
   ``` bash
   conda install <package we need>
   pip3 install <package we need>

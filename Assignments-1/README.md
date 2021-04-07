@@ -1,9 +1,11 @@
 # 第一次作业
 ## 选用数据集：
 + [Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews): 130k wine reviews with variety, location, winery, price, and description.
++ [Oakland Crime Statistics](https://www.kaggle.com/cityofoakland/oakland-crime-statistics-2011-to-2016): Oakland Crime Statistics 2011 to 2016.
 
 ## 处理代码：
 + 对 [Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews) 数据集，处理代码为：[wine-reviews.ipynb](./wine-reviews.ipynb)
++ 对 [Oakland Crime Statistics](https://www.kaggle.com/cityofoakland/oakland-crime-statistics-2011-to-2016) 数据集，处理代码为：[oakland-crime.ipynb](./oakland-crime.ipynb)
 ## 作业要求：
 ### 一、数据可视化和摘要
 + 数据摘要
@@ -46,5 +48,4 @@
   matplotlib                3.4.1
   ```
   
-
 

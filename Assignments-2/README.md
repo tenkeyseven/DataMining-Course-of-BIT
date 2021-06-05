@@ -38,6 +38,8 @@
   pandas                    1.2.3
   scikit-learn              0.24.1
   matplotlib                3.4.1
+  seaborn                   0.11.1
+  pymining                  0.2
   ```
   
 

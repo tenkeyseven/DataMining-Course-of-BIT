@@ -6,7 +6,7 @@
 + [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales): Analyze sales data from more than 16,500 games.
 
 ## 处理代码：
-+ 对 [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales) 数据集，处理代码为：[video-game-sale3.ipynb](./video-game-sale3.ipynb)
++ 对 [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales) 数据集，处理代码为：[video-game-sale.ipynb](./video-game-sale.ipynb)
 
 ## 作业要求：
 + 电子游戏市场分析：受欢迎的游戏、类型、发布平台、发行人等
